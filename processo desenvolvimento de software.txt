@@ -1,0 +1,65 @@
+
+                          jose hilton de oliveira
+                          matricula 01536170
+
+                                        Processosde Desenvolvimentode Software
+
+O processo de software évisto por uma seqüência de atividades que produzem uma variedade de documentos, resultando em um programa satisfatório e executável.
+ Os níveis e arquitetura do processo de software é formada por: Nível Universal:  possa utilizar em qualquer projeto; Nível Mundial:
+ Específico para um determinado projeto; Nível Atômico: Seqüência algorítmica do projeto, específico para as tarefas do processo.
+
+O desenvolvimento de software tem-se caracterizado por uma sobreposição  de atividades necessárias para especificar,
+ projetar e testar retorno dos resultados do software que está sendo criado. O feedbackdessa atividade nos ajuda a compreender o que é necessário para criar um produto.
+ A partir do feedbackobtido em experiências com protótipos, podemos efetuar mudanças na forma e na construção conceitual do software. O feedbackpossui quatro formas básicas:
+ Medições da entidade do software: número derivado de resultados produzidos por processos executores; Corretiva:
+ erros, faltas e falhas cometidas no software; Mudança: Modificar o software para eliminar defeitos;
+ Aprimoramento: Aperfeiçoar o software.
+
+Modelosde Processode Software O Modelo SequencialLinear também chamado Modelo Cascata
+ O Modelode Prototipação O ModeloRAD (Rapid Application Development) ModelosEvolutivosde Processode Software O Modelo Incremental
+ O Modelo Espiral O Modelode Montagemde Componentes Técnicasde QuartaGeração
+
+ O Modelo em Cascata Explora Exploraçção de Conceitos / Informa ão de Conceitos / Informaçção e ão e Modelagem Modelagem Envolve a elicitaçãode requisitos do sistema,
+ com uma pequena quantidade de projeto e análise de alto nível; Preocupa-se com aquilo que conhecemos como engenharia progressiva de produto de software;
+ Iniciar com um modelo conceitual de alto nível para um sistema e prosseguir com o projeto, implementação e teste do modelo físico do sistema
+
+
+O Modelo em Cascata Engenharia de Sistemas Análise  de Requisitos Projeto  Codificação Testes Manutenção An Anáálise de Requisitos de Software lise de Requisitos de Software o processo
+ de elicitaçãodos requisitos é intensificado e concentrado especificamente no software deve-se compreender o domínio da informação,
+ a função, desempenho e interfaces exigidos os requisitos (para o sistema e para o software) são documentados e revistos com o cliente
+
+
+Modelo Cascata:
+
+O modelo cascata é um processo linear e sequencial, onde cada fase deve ser concluída antes de passar para a próxima.
+As fases incluem requisitos, design, implementação, testes, instalação e manutenção.
+Adequado para projetos bem compreendidos e estáveis, onde os requisitos são claros.
+Modelo Incremental:
+
+O modelo incremental divide o desenvolvimento em incrementos menores e funcionais.
+Cada incremento adiciona funcionalidades ao sistema, e os incrementos são integrados gradualmente.
+Permite uma entrega mais rápida de partes do sistema.
+Modelo Espiral:
+
+O modelo espiral combina elementos do modelo cascata e do modelo incremental com ênfase na avaliação de riscos.
+O desenvolvimento avança em espiral, com iterações que incorporam avaliações de riscos e ajustes de acordo.
+É especialmente útil para projetos complexos e de longo prazo.
+Desenvolvimento Ágil:
+
+Métodos ágeis, como Scrum e Kanban, enfatizam a colaboração, a entrega contínua e a flexibilidade para responder a mudanças nos requisitos.
+Os desenvolvedores trabalham em iterações curtas, entregando incrementos de software em curtos períodos de tempo.
+A comunicação próxima com o cliente é fundamental.
+Desenvolvimento em Espiral:
+
+O desenvolvimento em espiral é um modelo iterativo que incorpora a prototipagem.
+As atividades são organizadas em espiral, onde cada volta representa uma fase de desenvolvimento.
+Cada iteração passa por determinadas fases, incluindo determinação de objetivos, avaliação de riscos e desenvolvimento.
+Desenvolvimento Orientado a Modelos (MDD):
+
+O MDD se concentra na criação de modelos que representam diferentes aspectos do sistema.
+Os modelos são transformados em código-fonte automaticamente.
+Ajuda a melhorar a produtividade e a manutenção do software.
+DevOps:
+
+DevOps não é um modelo de desenvolvimento em si, mas uma cultura que integra desenvolvimento (Dev) e operações (Ops).
+Foca na automação, colaboração contínua e entrega rápida.
